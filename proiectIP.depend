@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673331431 source:c:\users\catalin\onedrive\documente\proiectip\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<mmsystem.h>
+	<cstring>
+	<ctime>
+
